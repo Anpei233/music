@@ -1,13 +1,11 @@
-# **Vue云音乐项目介绍**
+## 个人参与过的Vue音乐项目介绍
 
 预览地址：http://120.77.242.209/music/
 
-## 前言
-随着对vue的不断学习，在学习慕课网上黄轶老师的饿了么项目与音乐项目后，寻思着自己也捣鼓一个vue的项目，可以苦于后台数据的获取迟迟没有动手，偶尔一天看到github的优质开源项目[NeteaseCloudMusicAp](https://github.com/Binaryify/NeteaseCloudMusicApi)，该项目使得网易云后台的api得以使用，于是我就开始了项目的搭建之路。
-对你学习Vue有帮助的话，欢迎点个**star**与**issue**
-## 项目依赖
+## 项目技术
 前端：Vue全家桶+Wave+ESLint+Axios+Less+Vant+Vue-lazyload
 后端：[NeteaseCloudMusicAp](https://github.com/Binaryify/NeteaseCloudMusicApi)
+项目参考了https://github.com/powerdong/Music-player
 
 ## 项目运行
 傻瓜式地启动方式
@@ -58,5 +56,4 @@ npm run serve
 
 ![enter description here](https://s2.ax1x.com/2020/01/02/lt6Th9.gif)
 
-**更多功能等你发现...**  
-项目参考了https://github.com/powerdong/Music-player ，站在前辈脚步下进行开发并且新增了很多功能与对项目的进行了很多优化
+
